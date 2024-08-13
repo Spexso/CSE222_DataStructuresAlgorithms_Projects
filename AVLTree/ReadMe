@@ -1,0 +1,9 @@
+To compile and run:
+(Enter the number of entries to create inside of class)
+1- javac InputScript.java
+2- java InputScript
+
+Then use just "make" 
+
+
+Note: make clean for reset
